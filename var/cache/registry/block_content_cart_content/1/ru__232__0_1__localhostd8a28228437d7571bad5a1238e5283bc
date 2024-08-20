@@ -1,0 +1,39 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:2051:"                        <div class="top-cart-content ">
+                    <div class="ty-dropdown-box" id="cart_status_9">
+        <div id="sw_dropdown_9" class="ty-dropdown-box__title cm-combination">
+        <a href="http://localhost/cscart/cart/">
+                                    <span class="ty-icon ty-icon-moon-commerce ty-minicart__icon empty" ></span>
+            <span class="ty-minicart-title empty-cart ty-hand">
+                <span class="ty-block ty-minicart-title__header ty-uppercase">Моя корзина</span>
+                <span class="ty-block">
+                                    Корзина пуста
+                                </span>
+            </span>
+            
+        </a>
+        </div>
+        <div id="dropdown_9" class="cm-popup-box ty-dropdown-box__content ty-dropdown-box__content--cart hidden">
+                            <div class="cm-cart-content cm-cart-content-thumb cm-cart-content-delete">
+                        <div class="ty-cart-items">
+                                                            <div class="ty-cart-items__empty ty-center">Корзина пуста</div>
+                                                    </div>
+
+                                                <div class="cm-cart-buttons ty-cart-content__buttons buttons-container hidden">
+                            <div class="ty-float-left">
+                                <a href="http://localhost/cscart/cart/" rel="nofollow" class="ty-btn ty-btn__secondary">Корзина</a>
+                            </div>
+                                                        <div class="ty-float-right">
+                                            
+ 
+    <a href="http://localhost/cscart/checkout/"  class="ty-btn ty-btn__primary " >Оформить заказ</a>
+                            </div>
+                                                    </div>
+                        
+                </div>
+            
+        </div>
+    <!--cart_status_9--></div>
+
+
+                    </div>
+            ";}s:6:"expiry";i:0;}

@@ -1,0 +1,55 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:839:"<script>
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var slider = context.find('#banner_slider_21');
+        if (slider.length) {
+            slider.owlCarousel({
+                direction: 'ltr',
+                items: 1,
+                singleItem : true,
+                slideSpeed: 400,
+                paginationSpeed: 800,
+                rewindSpeed: 1000,
+                autoPlay: 333000,
+                stopOnHover: true,
+                beforeInit: function () {
+                    $.ceEvent('trigger', 'ce.banner.carousel.beforeInit', [this]);
+                },
+                                                                    pagination: true,
+                    paginationNumbers: true
+                                            });
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:2330:"                        <div class="homepage-banners ">
+                
+
+    <div id="banner_slider_21" class="banners owl-carousel ty-scroller"
+        data-ca-scroller-item="1"
+        data-ca-scroller-item-desktop="1"
+        data-ca-scroller-item-desktop-small="1"
+        data-ca-scroller-item-tablet="1"
+        data-ca-scroller-item-mobile="1"
+    >
+                    <div class="ty-banner__image-item ty-scroller__item">
+                                    <a class="banner__link" href="http://localhost/cscart/index.php?dispatch=products.final_sale" >                        <img class="ty-pict  ty-banner__image   cm-image" alt="" title="" id="det_img_553191887" width="740" height="395" src="http://localhost/cscart/images/promo/1/banner-ru-sale-40-80.png" />
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item ty-scroller__item">
+                                    <a class="banner__link" href="http://localhost/cscart/multimedia/videoigry/xbox-360/x-box-360/" >                        <img class="ty-pict  ty-banner__image   cm-image" alt="" title="" id="det_img_3329605060" width="740" height="395" src="http://localhost/cscart/images/promo/1/banner-ru-xbox360.png" />
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item ty-scroller__item">
+                                    <a class="banner__link" href="http://localhost/cscart/bonusnye-bally/" >                        <img class="ty-pict  ty-banner__image   cm-image" alt="" title="" id="det_img_937509974" width="740" height="395" src="http://localhost/cscart/images/promo/1/banner-ru-point.png" />
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item ty-scroller__item">
+                                    <a class="banner__link" href="http://localhost/cscart/podarochnye-sertifikaty/" >                        <img class="ty-pict  ty-banner__image   cm-image" alt="" title="" id="det_img_1600459165" width="740" height="395" src="http://localhost/cscart/images/promo/1/banner-ru-girl.png" />
+
+                    </a>                            </div>
+            </div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+                    </div>
+            ";}s:6:"expiry";i:0;}

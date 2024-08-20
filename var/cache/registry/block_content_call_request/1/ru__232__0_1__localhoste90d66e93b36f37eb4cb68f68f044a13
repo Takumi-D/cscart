@@ -1,0 +1,26 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:902:"                    <div class="ty-cr-phone-number-link">
+    <div class="ty-cr-phone"><span><bdi><span class="ty-cr-phone-prefix">+780000</span>00000</bdi></span><span class="ty-cr-work">Пн-Пт: 9:00-18:00</span></div>
+    <div class="ty-cr-link">
+                
+                            
+        
+
+
+    
+
+    <a id="opener_call_request_block7"
+        class="cm-dialog-opener cm-dialog-auto-size "
+        href="http://localhost/cscart/index.php?dispatch=call_requests.request&amp;obj_prefix=block&amp;obj_id=7"         data-ca-target-id="content_call_request_block7"
+                data-ca-dialog-title="Заказать обратный звонок"        
+        rel="nofollow"
+    >
+                <span >Заказать обратный звонок</span>
+            </a>
+
+
+<div class="hidden" id="content_call_request_block7" title="">
+    
+</div>
+    </div>
+</div>
+            ";}s:6:"expiry";i:0;}

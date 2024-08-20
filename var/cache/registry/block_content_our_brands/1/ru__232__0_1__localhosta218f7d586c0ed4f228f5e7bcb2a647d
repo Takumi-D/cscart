@@ -1,0 +1,160 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2431:"<script>
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_28');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 7,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3,
+            itemsTablet = 2,
+            itemsMobile = 1;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, itemsMobile];
+
+                function afterInit () {
+            $.ceEvent('trigger', 'ce.scroller.afterInit', [this]);
+        }
+        function afterUpdate () {
+            $.ceEvent('trigger', 'ce.scroller.afterUpdate', [this]);
+        }
+                function beforeInit () {
+            $.ceEvent('trigger', 'ce.scroller.beforeInit', [this]);
+        }
+        function beforeUpdate () {
+            $.ceEvent('trigger', 'ce.scroller.beforeUpdate', [this]);
+        }
+
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                paginationSpeed: 800,
+                rewindSpeed: 1000,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Назад', 'Вперед'],
+                                pagination: false,
+                beforeInit: beforeInit,
+                afterInit: afterInit,
+                beforeUpdate: beforeUpdate,
+                afterUpdate: afterUpdate
+            });
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:7401:"        <div class="ty-mainbox-simple-container clearfix homepage-our-brands">
+                    <h2 class="ty-mainbox-simple-title">
+                                                    Бренды
+                                
+            </h2>
+                <div class="ty-mainbox-simple-body">
+        
+
+<div id="scroll_list_28" class="owl-carousel ty-scroller"
+    data-ca-scroller-item="7"
+    data-ca-scroller-item-desktop="7"
+    data-ca-scroller-item-desktop-small="6"
+    data-ca-scroller-item-tablet="5"
+    data-ca-scroller-item-mobile="1"
+>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/abbey-road-studios/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/79085903.jpg 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/79085903.jpg" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/acer/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/250px-Acer_2011.svg.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/250px-Acer_2011.svg.png" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/adidas/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/Adidas_Logo.svg.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/Adidas_Logo.svg.png" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/aiko/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/aiko_safe_t.gif 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/aiko_safe_t.gif" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/apple/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/Apple_logo_black.svg.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/Apple_logo_black.svg.png" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/arc-system-works/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/Arc_system_works.jpg 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/Arc_system_works.jpg" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/asus/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/200px-ASUS_Logo.svg.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/200px-ASUS_Logo.svg.png" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/camelback/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/CamelBak_Logo.jpg 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/CamelBak_Logo.jpg" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/capcom/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/220px-Capcom_logo.svg.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/220px-Capcom_logo.svg.png" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/casio/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/Casio_logo.svg.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/Casio_logo.svg.png" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/cleveland/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/Clevelandgolf_logo.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/Clevelandgolf_logo.png" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/cobra/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/cobra-logo.jpg 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/cobra-logo.jpg" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/concord-records/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/Concordjazzlogo.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/Concordjazzlogo.png" />
+
+</a>
+            </div>
+                            <div class="ty-center ty-scroller__item">
+                <a href="http://localhost/cscart/creative/">                            <img class="ty-pict  ty-grayscale lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost/cscart/images/thumbnails/150/150/feature_variant/1/Creative_Technology_logo.svg.png 2x" width="75" height="75" data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/Creative_Technology_logo.svg.png" />
+
+</a>
+            </div>
+    </div>
+<!-- Inline script moved to the bottom of the page -->
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

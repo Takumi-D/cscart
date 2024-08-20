@@ -1,0 +1,707 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2541:"<script src="http://localhost/cscart/js/tygh/product_image_gallery.js?ver=1724167254" ></script><script>
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_24_66c4b4586f058');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 4,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3,
+            itemsTablet = 2,
+            itemsMobile = 1;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, itemsMobile];
+
+                function afterInit () {
+            $.ceEvent('trigger', 'ce.scroller.afterInit', [this]);
+        }
+        function afterUpdate () {
+            $.ceEvent('trigger', 'ce.scroller.afterUpdate', [this]);
+        }
+                function beforeInit () {
+            $.ceEvent('trigger', 'ce.scroller.beforeInit', [this]);
+        }
+        function beforeUpdate () {
+            $.ceEvent('trigger', 'ce.scroller.beforeUpdate', [this]);
+        }
+
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                paginationSpeed: 800,
+                rewindSpeed: 1000,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Назад', 'Вперед'],
+                                pagination: false,
+                beforeInit: beforeInit,
+                afterInit: afterInit,
+                beforeUpdate: beforeUpdate,
+                afterUpdate: afterUpdate
+            });
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:25985:"        <div class="ty-mainbox-simple-container clearfix homepage-hotdeals">
+                    <h2 class="ty-mainbox-simple-title">
+                                                    Новинки
+                                
+            </h2>
+                <div class="ty-mainbox-simple-body">
+        
+
+<!-- Inline script moved to the bottom of the page -->
+
+
+        
+<div id="scroll_list_24_66c4b4586f058" class="owl-carousel ty-scroller-list grid-list ty-scroller-advanced ty-scroller"
+    data-ca-scroller-item="4"
+    data-ca-scroller-item-desktop="4"
+    data-ca-scroller-item-desktop-small="3"
+    data-ca-scroller-item-tablet="2"
+    data-ca-scroller-item-mobile="1"
+>
+                    <div class="ty-scroller-list__item ty-scroller__item">
+                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://localhost/cscart/" method="post" name="product_form_24000278" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[278][product_id]" value="278" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-24000278" id="product_labels_update_24000278">
+                                                                                                        
+                        <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">Скидка 60%</div>
+    </div>
+                        
+        
+            <!--product_labels_update_24000278--></div>
+            
+
+                        
+
+
+        <a href="http://localhost/cscart/odezhda/muzhskaya-odezhda/futbolka-cvet-belyy/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost/cscart/images/thumbnails/300/300/detailed/1/t-6.jpg 2x" id="det_img_24000278" width="150" height="150" src="http://localhost/cscart/images/thumbnails/150/150/detailed/1/t-6.jpg" />
+
+    </a>
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>            <a href="http://localhost/cscart/odezhda/muzhskaya-odezhda/futbolka-cvet-belyy/" class="product-title" title="Футболка, Цвет: Белый" >Футболка, Цвет: Белый</a>    
+</bdi>
+                    </div>
+
+                                                                        <div class="ty-grid-list__price ">
+                                                                            <span class="cm-reload-24000278" id="old_price_update_24000278">
+                                                            <span class="ty-list-price ty-nowrap" id="line_list_price_24000278"><span class="ty-strike"><span id="sec_list_price_24000278" class="ty-list-price ty-nowrap">75.00</span>&nbsp;<span class="ty-list-price ty-nowrap">₽</span></span></span>
+                                        
+        <!--old_price_update_24000278--></span>
+    
+                                                                    <span class="cm-reload-24000278 ty-price-update" id="price_update_24000278">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_24000278"><span id="sec_discounted_price_24000278" class="ty-price-num">30.00</span>&nbsp;<span class="ty-price-num">₽</span></span>
+                            
+                        <!--price_update_24000278--></span>
+
+
+                                                                    
+
+                                                                    
+                            </div>
+                        
+                    
+                                        
+                    
+
+                    
+                                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4846a259a852da75546e851cd0ddcc9c" /></form>
+
+                    
+                </div>
+                        
+        </div>
+        
+                    <div class="ty-scroller-list__item ty-scroller__item">
+                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://localhost/cscart/" method="post" name="product_form_24000280" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[280][product_id]" value="280" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-24000280" id="product_labels_update_24000280">
+                                                                                                        
+                        <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">Скидка 28%</div>
+    </div>
+                        
+        
+            <!--product_labels_update_24000280--></div>
+            
+
+                        
+
+
+        <a href="http://localhost/cscart/odezhda/muzhskaya-odezhda/futbolka-cvet-chernyy/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost/cscart/images/thumbnails/300/300/detailed/1/t-4.jpg 2x" id="det_img_24000280" width="150" height="150" src="http://localhost/cscart/images/thumbnails/150/150/detailed/1/t-4.jpg" />
+
+    </a>
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>            <a href="http://localhost/cscart/odezhda/muzhskaya-odezhda/futbolka-cvet-chernyy/" class="product-title" title="Футболка, Цвет: Черный" >Футболка, Цвет: Черный</a>    
+</bdi>
+                    </div>
+
+                                                                        <div class="ty-grid-list__price ">
+                                                                            <span class="cm-reload-24000280" id="old_price_update_24000280">
+                                                            <span class="ty-list-price ty-nowrap" id="line_list_price_24000280"><span class="ty-strike"><span id="sec_list_price_24000280" class="ty-list-price ty-nowrap">50.00</span>&nbsp;<span class="ty-list-price ty-nowrap">₽</span></span></span>
+                                        
+        <!--old_price_update_24000280--></span>
+    
+                                                                    <span class="cm-reload-24000280 ty-price-update" id="price_update_24000280">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_24000280"><span id="sec_discounted_price_24000280" class="ty-price-num">36.00</span>&nbsp;<span class="ty-price-num">₽</span></span>
+                            
+                        <!--price_update_24000280--></span>
+
+
+                                                                    
+
+                                                                    
+                            </div>
+                        
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+                                
+                                
+            <a class="ty-product-review-reviews-stars__link "
+            href="http://localhost/cscart/odezhda/muzhskaya-odezhda/futbolka-cvet-chernyy/?selected_section=product_reviews#product_reviews"
+            title="Этот товар оценивают на 3.5 из 5 звёзд. Показывать оценку из отзывов."
+        >
+            <div class="ty-product-review-reviews-stars
+                        "
+            data-ca-product-review-reviews-stars-rating="4"
+            data-ca-product-review-reviews-stars-full="3"
+            data-ca-product-review-reviews-stars-is-half="1"
+                    ></div>
+            </a>
+    
+
+    
+
+                        </div>
+                    
+                    
+
+                    
+                                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4846a259a852da75546e851cd0ddcc9c" /></form>
+
+                    
+                </div>
+                        
+        </div>
+        
+                    <div class="ty-scroller-list__item ty-scroller__item">
+                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://localhost/cscart/" method="post" name="product_form_24000282" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[282][product_id]" value="282" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-24000282" id="product_labels_update_24000282">
+                                                                                                        
+                        <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">Скидка 63%</div>
+    </div>
+                        
+        
+            <!--product_labels_update_24000282--></div>
+            
+
+                        
+
+
+        <a href="http://localhost/cscart/odezhda/muzhskaya-odezhda/futbolka-cvet-siniy/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost/cscart/images/thumbnails/300/300/detailed/1/t-7.jpg 2x" id="det_img_24000282" width="150" height="150" src="http://localhost/cscart/images/thumbnails/150/150/detailed/1/t-7.jpg" />
+
+    </a>
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>            <a href="http://localhost/cscart/odezhda/muzhskaya-odezhda/futbolka-cvet-siniy/" class="product-title" title="Футболка, Цвет: Синий" >Футболка, Цвет: Синий</a>    
+</bdi>
+                    </div>
+
+                                                                        <div class="ty-grid-list__price ">
+                                                                            <span class="cm-reload-24000282" id="old_price_update_24000282">
+                                                            <span class="ty-list-price ty-nowrap" id="line_list_price_24000282"><span class="ty-strike"><span id="sec_list_price_24000282" class="ty-list-price ty-nowrap">75.00</span>&nbsp;<span class="ty-list-price ty-nowrap">₽</span></span></span>
+                                        
+        <!--old_price_update_24000282--></span>
+    
+                                                                    <span class="cm-reload-24000282 ty-price-update" id="price_update_24000282">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_24000282"><span id="sec_discounted_price_24000282" class="ty-price-num">27.99</span>&nbsp;<span class="ty-price-num">₽</span></span>
+                            
+                        <!--price_update_24000282--></span>
+
+
+                                                                    
+
+                                                                    
+                            </div>
+                        
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+                                
+                                
+            <a class="ty-product-review-reviews-stars__link "
+            href="http://localhost/cscart/odezhda/muzhskaya-odezhda/futbolka-cvet-siniy/?selected_section=product_reviews#product_reviews"
+            title="Этот товар оценивают на 5 из 5 звёзд. Показывать оценку из отзывов."
+        >
+            <div class="ty-product-review-reviews-stars
+                        "
+            data-ca-product-review-reviews-stars-rating="5"
+            data-ca-product-review-reviews-stars-full="5"
+            data-ca-product-review-reviews-stars-is-half=""
+                    ></div>
+            </a>
+    
+
+    
+
+                        </div>
+                    
+                    
+
+                    
+                                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4846a259a852da75546e851cd0ddcc9c" /></form>
+
+                    
+                </div>
+                        
+        </div>
+        
+                    <div class="ty-scroller-list__item ty-scroller__item">
+                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://localhost/cscart/" method="post" name="product_form_24000247" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[247][product_id]" value="247" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="http://localhost/cscart/elektronika/kompyutery/planshety/nokia-n1-pad-7-9-quad-core-64bit-2-3ghz-2gb-32gb-android-5-0/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost/cscart/images/thumbnails/300/300/detailed/1/nokia_n1_perspectives_-_app.jpg 2x" id="det_img_24000247" width="150" height="150" src="http://localhost/cscart/images/thumbnails/150/150/detailed/1/nokia_n1_perspectives_-_app.jpg" />
+
+    </a>
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>            <a href="http://localhost/cscart/elektronika/kompyutery/planshety/nokia-n1-pad-7-9-quad-core-64bit-2-3ghz-2gb-32gb-android-5-0/" class="product-title" title="Nokia N1 Pad 7.9&quot; Quad-Core 64bit 2.3GHz 2GB 32GB Android 5.0" >Nokia N1 Pad 7.9" Quad-Core 64bit 2.3GHz ...</a>    
+</bdi>
+                    </div>
+
+                                                                        <div class="ty-grid-list__price ">
+                                                                            <span class="cm-reload-24000247" id="old_price_update_24000247">
+                                    
+        <!--old_price_update_24000247--></span>
+    
+                                                                    <span class="cm-reload-24000247 ty-price-update" id="price_update_24000247">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_24000247"><span id="sec_discounted_price_24000247" class="ty-price-num">13&nbsp;179.60</span>&nbsp;<span class="ty-price-num">₽</span></span>
+                            
+                        <!--price_update_24000247--></span>
+
+
+                                                                    
+
+                                                                    
+                            </div>
+                        
+                    
+                                        
+                    
+
+                    
+                                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4846a259a852da75546e851cd0ddcc9c" /></form>
+
+                    
+                </div>
+                        
+        </div>
+        
+                    <div class="ty-scroller-list__item ty-scroller__item">
+                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://localhost/cscart/" method="post" name="product_form_24000255" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[255][product_id]" value="255" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-24000255" id="product_labels_update_24000255">
+                                                                                                        
+                        <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">Скидка 7%</div>
+    </div>
+                        
+        
+            <!--product_labels_update_24000255--></div>
+            
+
+                        
+
+
+        <a href="http://localhost/cscart/elektronika/igrovye-pristavki/aksessuary/dualshock-4/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost/cscart/images/thumbnails/300/300/detailed/1/1_pnxa-px.jpg 2x" id="det_img_24000255" width="150" height="150" src="http://localhost/cscart/images/thumbnails/150/150/detailed/1/1_pnxa-px.jpg" />
+
+    </a>
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>            <a href="http://localhost/cscart/elektronika/igrovye-pristavki/aksessuary/dualshock-4/" class="product-title" title="Dualshock 4" >Dualshock 4</a>    
+</bdi>
+                    </div>
+
+                                                                        <div class="ty-grid-list__price ">
+                                                                            <span class="cm-reload-24000255" id="old_price_update_24000255">
+                                                            <span class="ty-list-price ty-nowrap" id="line_list_price_24000255"><span class="ty-strike"><span id="sec_list_price_24000255" class="ty-list-price ty-nowrap">2&nbsp;970.00</span>&nbsp;<span class="ty-list-price ty-nowrap">₽</span></span></span>
+                                        
+        <!--old_price_update_24000255--></span>
+    
+                                                                    <span class="cm-reload-24000255 ty-price-update" id="price_update_24000255">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_24000255"><span id="sec_discounted_price_24000255" class="ty-price-num">2&nbsp;770.00</span>&nbsp;<span class="ty-price-num">₽</span></span>
+                            
+                        <!--price_update_24000255--></span>
+
+
+                                                                    
+
+                                                                    
+                            </div>
+                        
+                    
+                                        
+                    
+
+                    
+                                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4846a259a852da75546e851cd0ddcc9c" /></form>
+
+                    
+                </div>
+                        
+        </div>
+        
+                    <div class="ty-scroller-list__item ty-scroller__item">
+                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://localhost/cscart/" method="post" name="product_form_24000256" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[256][product_id]" value="256" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="http://localhost/cscart/multimedia/videoigry/x-box-one/titanfall/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost/cscart/images/thumbnails/300/300/detailed/1/1009374167.jpg 2x" id="det_img_24000256" width="150" height="150" src="http://localhost/cscart/images/thumbnails/150/150/detailed/1/1009374167.jpg" />
+
+    </a>
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>            <a href="http://localhost/cscart/multimedia/videoigry/x-box-one/titanfall/" class="product-title" title="Titanfall" >Titanfall</a>    
+</bdi>
+                    </div>
+
+                                                                        <div class="ty-grid-list__price ">
+                                                                            <span class="cm-reload-24000256" id="old_price_update_24000256">
+                                    
+        <!--old_price_update_24000256--></span>
+    
+                                                                    <span class="cm-reload-24000256 ty-price-update" id="price_update_24000256">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_24000256"><span id="sec_discounted_price_24000256" class="ty-price-num">1&nbsp;100.00</span>&nbsp;<span class="ty-price-num">₽</span></span>
+                            
+                        <!--price_update_24000256--></span>
+
+
+                                                                    
+
+                                                                    
+                            </div>
+                        
+                    
+                                        
+                    
+
+                    
+                                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4846a259a852da75546e851cd0ddcc9c" /></form>
+
+                    
+                </div>
+                        
+        </div>
+        
+    </div>
+
+<!-- Inline script moved to the bottom of the page -->
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

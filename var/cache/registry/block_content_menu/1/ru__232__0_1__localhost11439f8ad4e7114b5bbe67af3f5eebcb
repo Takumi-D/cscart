@@ -1,0 +1,660 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:82315:"                        <div class="top-menu ">
+                
+    <ul class="ty-menu__items cm-responsive-menu">
+                    <li class="ty-menu__item ty-menu__menu-btn visible-phone cm-responsive-menu-toggle-main">
+                <a class="ty-menu__item-link">
+                    <span class="ty-icon ty-icon-short-list" ></span>
+                    <span>Меню</span>
+                </a>
+            </li>
+
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu-item__products">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                            <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                        </a>
+                                        <a  class="ty-menu__item-link" >
+                        Все товары
+                    </a>
+                
+                                            <div class="ty-menu__submenu" id="topmenu_10_d41d8cd98f00b204e9800998ecf8427e">
+                                                            <ul class="ty-menu__submenu-items cm-responsive-menu-submenu">
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/elektronika/" class="ty-menu__submenu-link" >Электроника</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/kompyutery/"                                                                        class="ty-menu__submenu-link" >Компьютеры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/"                                                                        class="ty-menu__submenu-link" >Автоэлектроника</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/televizory-i-video/"                                                                        class="ty-menu__submenu-link" >Телевизоры и Видео</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/telefony/"                                                                        class="ty-menu__submenu-link" >Телефоны</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/mp3-pleery/"                                                                        class="ty-menu__submenu-link" >MP3 плееры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/foto-video/"                                                                        class="ty-menu__submenu-link" >Фото видео</a>
+                                                            </li>
+                                                                                                                                                                            <li class="ty-menu__submenu-item ty-menu__submenu-alt-link">
+                                                                <a href="http://localhost/cscart/elektronika/"
+                                                                   class="ty-menu__submenu-link" >Больше <i class="text-arrow">&rarr;</i></a>
+                                                            </li>
+                                                                                                                
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/sport-i-otdyh/" class="ty-menu__submenu-link" >Спорт и отдых</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/velosipedy/"                                                                        class="ty-menu__submenu-link" >Велосипеды</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/golf/"                                                                        class="ty-menu__submenu-link" >Гольф</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/kemping/"                                                                        class="ty-menu__submenu-link" >Кемпинг</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/odezhda/" class="ty-menu__submenu-link" >Одежда</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/odezhda/muzhskaya-odezhda/"                                                                        class="ty-menu__submenu-link" >Мужская одежда</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/odezhda/zhenskaya-odezhda/"                                                                        class="ty-menu__submenu-link" >Женская одежда</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/odezhda/obuv/"                                                                        class="ty-menu__submenu-link" >Обувь</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/odezhda/chasy-i-dragocennosti/"                                                                        class="ty-menu__submenu-link" >Часы и драгоценности</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/kancelyarskie-tovary/" class="ty-menu__submenu-link" >Канцелярские товары</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/kancelyarskie-tovary/kalkulyatory/"                                                                        class="ty-menu__submenu-link" >Калькуляторы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/kancelyarskie-tovary/prinadlezhnosti-na-stol/"                                                                        class="ty-menu__submenu-link" >Принадлежности на стол</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/kancelyarskie-tovary/seyfy/"                                                                        class="ty-menu__submenu-link" >Сейфы</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/multimedia/" class="ty-menu__submenu-link" >Мультимедиа</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/muzyka/"                                                                        class="ty-menu__submenu-link" >Музыка</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/filmy/"                                                                        class="ty-menu__submenu-link" >Фильмы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/videoigry/"                                                                        class="ty-menu__submenu-link" >Видеоигры</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                                                        </ul>
+                            
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu-item__apparel">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                            <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                        </a>
+                                        <a  href="http://localhost/cscart/odezhda/" class="ty-menu__item-link" >
+                        Одежда
+                    </a>
+                
+                                                                <div class="ty-menu__submenu">
+                            <ul class="ty-menu__submenu-items ty-menu__submenu-items-simple cm-responsive-menu-submenu">
+                                
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/cscart/odezhda/muzhskaya-odezhda/" >Мужская одежда</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/cscart/odezhda/zhenskaya-odezhda/" >Женская одежда</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/cscart/odezhda/obuv/" >Обувь</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/cscart/odezhda/chasy-i-dragocennosti/" >Часы и драгоценности</a>
+                                    </li>
+                                                                
+                                
+                            </ul>
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu-item__electronics">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                            <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                        </a>
+                                        <a  href="http://localhost/cscart/elektronika/" class="ty-menu__item-link" >
+                        Электроника
+                    </a>
+                
+                                            <div class="ty-menu__submenu" id="topmenu_10_8928f6c1ff0b9e4e456fbafe18adeb2a">
+                                                            <ul class="ty-menu__submenu-items cm-responsive-menu-submenu">
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/elektronika/kompyutery/" class="ty-menu__submenu-link" >Компьютеры</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/kompyutery/nastolnye-pk/"                                                                        class="ty-menu__submenu-link" >Настольные ПК</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/kompyutery/noutbuki/"                                                                        class="ty-menu__submenu-link" >Ноутбуки</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/kompyutery/planshety/"                                                                        class="ty-menu__submenu-link" >Планшеты</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/kompyutery/monitory/"                                                                        class="ty-menu__submenu-link" >Мониторы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/kompyutery/setevoe-oborudovanie/"                                                                        class="ty-menu__submenu-link" >Сетевое оборудование</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/kompyutery/printery-i-skanery/"                                                                        class="ty-menu__submenu-link" >Принтеры и сканеры</a>
+                                                            </li>
+                                                                                                                                                                            <li class="ty-menu__submenu-item ty-menu__submenu-alt-link">
+                                                                <a href="http://localhost/cscart/elektronika/kompyutery/"
+                                                                   class="ty-menu__submenu-link" >Больше <i class="text-arrow">&rarr;</i></a>
+                                                            </li>
+                                                                                                                
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/" class="ty-menu__submenu-link" >Автоэлектроника</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/gps-navigatory/"                                                                        class="ty-menu__submenu-link" >GPS навигаторы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/avtomagnitoly/"                                                                        class="ty-menu__submenu-link" >Автомагнитолы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/dinamiki/"                                                                        class="ty-menu__submenu-link" >Динамики</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/sabvufery/"                                                                        class="ty-menu__submenu-link" >Сабвуферы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/usiliteli/"                                                                        class="ty-menu__submenu-link" >Усилители</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/avtotelevizory-i-dvd/"                                                                        class="ty-menu__submenu-link" >Автотелевизоры и DVD</a>
+                                                            </li>
+                                                                                                                                                                            <li class="ty-menu__submenu-item ty-menu__submenu-alt-link">
+                                                                <a href="http://localhost/cscart/elektronika/avtoelektronika/"
+                                                                   class="ty-menu__submenu-link" >Больше <i class="text-arrow">&rarr;</i></a>
+                                                            </li>
+                                                                                                                
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/elektronika/televizory-i-video/" class="ty-menu__submenu-link" >Телевизоры и Видео</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/televizory-i-video/led-televizory/"                                                                        class="ty-menu__submenu-link" >LED телевизоры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/televizory-i-video/plazmennye-televizory/"                                                                        class="ty-menu__submenu-link" >Плазменные телевизоры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/televizory-i-video/3d-televizory/"                                                                        class="ty-menu__submenu-link" >3D телевизоры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/televizory-i-video/dvd-i-blu-ray-pleery/"                                                                        class="ty-menu__submenu-link" >DVD и Blu-ray плееры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/televizory-i-video/domashnie-kinoteatry/"                                                                        class="ty-menu__submenu-link" >Домашние кинотеатры</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/elektronika/telefony/" class="ty-menu__submenu-link" >Телефоны</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/telefony/apple-iphone/"                                                                        class="ty-menu__submenu-link" >Apple iPhone</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/telefony/htc/"                                                                        class="ty-menu__submenu-link" >HTC</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/telefony/motorola/"                                                                        class="ty-menu__submenu-link" >Motorola</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/telefony/nokia/"                                                                        class="ty-menu__submenu-link" >Nokia</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/telefony/samsung/"                                                                        class="ty-menu__submenu-link" >Samsung</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/elektronika/mp3-pleery/" class="ty-menu__submenu-link" >MP3 плееры</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/mp3-pleery/ipod/"                                                                        class="ty-menu__submenu-link" >iPod</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/mp3-pleery/android/"                                                                        class="ty-menu__submenu-link" >Android</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/mp3-pleery/mp3-pleery/"                                                                        class="ty-menu__submenu-link" >MP3 плееры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/mp3-pleery/audiosistemy-dlya-mp3/"                                                                        class="ty-menu__submenu-link" >Аудиосистемы для MP3</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/mp3-pleery/naushniki/"                                                                        class="ty-menu__submenu-link" >Наушники</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/elektronika/foto-video/" class="ty-menu__submenu-link" >Фото видео</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/foto-video/cifrovye-fotoapparaty/"                                                                        class="ty-menu__submenu-link" >Цифровые фотоаппараты</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/foto-video/zerkalnye-fotoapparaty/"                                                                        class="ty-menu__submenu-link" >Зеркальные фотоаппараты</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/foto-video/videokamery/"                                                                        class="ty-menu__submenu-link" >Видеокамеры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/foto-video/obektivy/"                                                                        class="ty-menu__submenu-link" >Объективы</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/elektronika/igrovye-pristavki/" class="ty-menu__submenu-link" >Игровые приставки</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/igrovye-pristavki/aksessuary/"                                                                        class="ty-menu__submenu-link" >Аксессуары</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/elektronika/igrovye-pristavki/pristavki/"                                                                        class="ty-menu__submenu-link" >Приставки</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                                                        </ul>
+                            
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu-item__sport">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                            <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                        </a>
+                                        <a  href="http://localhost/cscart/sport-i-otdyh/" class="ty-menu__item-link" >
+                        Спорт и отдых
+                    </a>
+                
+                                            <div class="ty-menu__submenu" id="topmenu_10_d9a98546096f595800fd4d5a120f9fee">
+                                                            <ul class="ty-menu__submenu-items cm-responsive-menu-submenu">
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/sport-i-otdyh/velosipedy/" class="ty-menu__submenu-link" >Велосипеды</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/velosipedy/komfort-i-kruizer/"                                                                        class="ty-menu__submenu-link" >Комфорт и круизер</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/velosipedy/shosseynye-velosipedy/"                                                                        class="ty-menu__submenu-link" >Шоссейные велосипеды</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/velosipedy/gornye-velosipedy/"                                                                        class="ty-menu__submenu-link" >Горные велосипеды</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/sport-i-otdyh/golf/" class="ty-menu__submenu-link" >Гольф</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/golf/klyushki-dlya-golfa/"                                                                        class="ty-menu__submenu-link" >Клюшки для гольфа</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/golf/shary-dlya-golfa/"                                                                        class="ty-menu__submenu-link" >Шары для гольфа</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/golf/sumki-dlya-golfa/"                                                                        class="ty-menu__submenu-link" >Сумки для гольфа</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/sport-i-otdyh/kemping/" class="ty-menu__submenu-link" >Кемпинг</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/kemping/ryukzaki/"                                                                        class="ty-menu__submenu-link" >Рюкзаки</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/kemping/spalniki/"                                                                        class="ty-menu__submenu-link" >Спальники</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/sport-i-otdyh/kemping/palatki/"                                                                        class="ty-menu__submenu-link" >Палатки</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                                                        </ul>
+                            
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu-item__office">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                            <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                        </a>
+                                        <a  href="http://localhost/cscart/kancelyarskie-tovary/" class="ty-menu__item-link" >
+                        Канцелярские товары
+                    </a>
+                
+                                                                <div class="ty-menu__submenu">
+                            <ul class="ty-menu__submenu-items ty-menu__submenu-items-simple cm-responsive-menu-submenu">
+                                
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/cscart/kancelyarskie-tovary/kalkulyatory/" >Калькуляторы</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/cscart/kancelyarskie-tovary/prinadlezhnosti-na-stol/" >Принадлежности на стол</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/cscart/kancelyarskie-tovary/seyfy/" >Сейфы</a>
+                                    </li>
+                                                                
+                                
+                            </ul>
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu-item__media">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                            <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                        </a>
+                                        <a  href="http://localhost/cscart/multimedia/" class="ty-menu__item-link" >
+                        Мультимедиа
+                    </a>
+                
+                                            <div class="ty-menu__submenu" id="topmenu_10_1c23e92bd9ea396ff531d9f1727bcd5b">
+                                                            <ul class="ty-menu__submenu-items cm-responsive-menu-submenu">
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/multimedia/muzyka/" class="ty-menu__submenu-link" >Музыка</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/muzyka/blyuz/"                                                                        class="ty-menu__submenu-link" >Блюз</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/muzyka/klassicheskaya-muzyka/"                                                                        class="ty-menu__submenu-link" >Классическая музыка</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/muzyka/dzhaz/"                                                                        class="ty-menu__submenu-link" >Джаз</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/muzyka/rok/"                                                                        class="ty-menu__submenu-link" >Рок</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/multimedia/filmy/" class="ty-menu__submenu-link" >Фильмы</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/filmy/blu-ray-diski/"                                                                        class="ty-menu__submenu-link" >Blu-ray диски</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/filmy/video-filmy-dvd/"                                                                        class="ty-menu__submenu-link" >Видео фильмы (DVD)</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/filmy/serialy-dvd/"                                                                        class="ty-menu__submenu-link" >Сериалы (DVD)</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="http://localhost/cscart/multimedia/videoigry/" class="ty-menu__submenu-link" >Видеоигры</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <span class="ty-icon ty-icon-down-open ty-menu__icon-open" ></span>
+                                                    <span class="ty-icon ty-icon-up-open ty-menu__icon-hide" ></span>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                                                                                                                                                                                                            <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/videoigry/nintendo-wii/"                                                                        class="ty-menu__submenu-link" >Nintendo Wii</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/videoigry/playstation-3/"                                                                        class="ty-menu__submenu-link" >PlayStation 3</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/videoigry/playstation-vita/"                                                                        class="ty-menu__submenu-link" >PlayStation Vita</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/videoigry/xbox-360/"                                                                        class="ty-menu__submenu-link" >Xbox 360</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/videoigry/playstation-4/"                                                                        class="ty-menu__submenu-link" >PlayStation 4</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="http://localhost/cscart/multimedia/videoigry/x-box-one/"                                                                        class="ty-menu__submenu-link" >X-Box One</a>
+                                                            </li>
+                                                                                                                                                                        
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                                                        </ul>
+                            
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu__item-nodrop ty-menu-item__brands">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=product_features.view_all&amp;filter_id=10" class="ty-menu__item-link" >
+                        Бренды
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu__item-nodrop ty-menu-item__newest">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=products.newest" class="ty-menu__item-link" >
+                        Новинки
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu__item-nodrop ty-menu-item__hits">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=products.bestsellers" class="ty-menu__item-link" >
+                        Хиты продаж
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu__item-nodrop ty-menu-item__sale">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=products.on_sale" class="ty-menu__item-link" >
+                        Скидки
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive  ty-menu__item-nodrop ty-menu-item__promotions">
+                                        <a  href="http://localhost/cscart/promotions/" class="ty-menu__item-link" >
+                        Акции
+                    </a>
+                            </li>
+        
+        
+    </ul>
+
+
+                    </div>
+            ";}s:6:"expiry";i:0;}
